@@ -1,0 +1,30 @@
+#Core
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+#Audio Processing
+openai-whisper
+pydub 
+webrtcvad
+soundfile
+resemblyzer
+scikit-learn
+scipy
+numpy
+
+#LLM & RAG
+google-generativeai
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+
+#Reporting
+fpdf
+openpyxl 
+
+#Utils
+python-multipart
+matplotlib
